@@ -12,21 +12,34 @@ Datum webtoegankelijkheid-test: 28-10-'21
 Webtoegankelijkheid-test uitgevoerd door: Finn van Bekkum
 ## Inhoudsopgave
 
-- [Titel](#titel)
   * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
+  * [Samenvatting](#samenvatting)
+  * [Achtergrond bij de evaluatie](#achtergrond bij de evaluatie)
+  * [ Afbakening](#afbakening)
+  * [Beoordelaars](#beoordelaars)
+  * [Beoordelingsproces](#beoordelingsproces)
+  * [Testresultaten en aanbevelingen](#testresultaten en aanbevelingen)
+  * [Referenties](#referenties)
+  * [Bijlagen](#bijlagen)
   * [Licentie](#licentie)
+  
 
-## Kenmerken
 
-## Installatie
+## Samenvatting
 
-## Gebruik
+## Achtergrond bij de evaluatie
 
-## Bronnen
+##  Afbakening
+
+## Beoordelaars
+
+## Beoordelingsproces
+
+## Testresultaten en aanbevelingen
+
+##  Referenties
+
+##  Bijlagen
 
 ## Licentie
 
