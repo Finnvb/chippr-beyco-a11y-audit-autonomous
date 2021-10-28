@@ -3,7 +3,7 @@
 # Titel
 
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
+<!-- Voeg een link toe naar Github Pages 🌐--> 
 <!-- Voeg een mooie poster visual toe 📸 -->
 
 ## Inhoudsopgave
