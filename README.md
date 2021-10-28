@@ -18,7 +18,7 @@ Webtoegankelijkheid-test uitgevoerd door: Finn van Bekkum
   * [Afbakening](#afbakening)
   * [Beoordelaars](#beoordelaars)
   * [Beoordelingsproces](#beoordelingsproces)
-  * [Testresultaten](#testresultaten)
+  * [Testresultaten en aanbevelingen](#testresultaten-en-aanbevelingen)
   * [Referenties](#referenties)
   * [Bijlagen](#bijlagen)
   * [Licentie](#licentie)
