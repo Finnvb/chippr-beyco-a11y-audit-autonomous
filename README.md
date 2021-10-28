@@ -1,11 +1,15 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Rapportage webtoegankelijkheid-test voor Chippr-Beyco
 
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐--> 
-<!-- Voeg een mooie poster visual toe 📸 -->
 
+Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.
+
+In deze rapportage wordt het detail pagina getest aan de hand van de checklist van het a11y project.  
+
+Datum webtoegankelijkheid-test: 28-10-'21
+
+Webtoegankelijkheid-test uitgevoerd door: Finn van Bekkum
 ## Inhoudsopgave
 
 - [Titel](#titel)
