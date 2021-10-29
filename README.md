@@ -39,6 +39,7 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 Beyco
 
 {en doel van de website, wanneer relevant}
+Beyco zorgt voor een platform waar verkopers en inkopers met elkaar in contact kunnen komen.
 
 {Base URL van de website}
 https://test.beyco.chippr.dev/
