@@ -75,23 +75,23 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ## Testresultaten en aanbevelingen
 
- **Checklist
+ **Checklist**
 
  **Content**
 
- **Global code
+ **Global code**
 
-# Keyboard
+ **Keyboard**
 
-# Images
+**Images**
 
-# Headings
+**Headings**
 
-# Lists
+**Lists**
 
-# Controls
+**Controls**
 
-# Tables
+**Tables**
 
 
 
