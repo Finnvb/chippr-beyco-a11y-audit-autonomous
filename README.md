@@ -68,9 +68,12 @@ Deze beoordelings is uitgevoerd op WCAG 2.1 Niveau AA
 
 De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
- *   A11Y Checklist
+   
+  * [A11Y Checklist](#https://www.a11yproject.com/checklist/)
  *  WCAG Guidelines Overview
  * Google Lighthouse
+
+
 
 
 ## Testresultaten en aanbevelingen
