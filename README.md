@@ -32,7 +32,7 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 ##  Afbakening
 
-Beyco.nl
+https://beyco.nl/
 
 Beyco zorgt voor een platform waar verkopers en inkopers met elkaar in contact kunnen komen.
 
@@ -69,7 +69,7 @@ Deze beoordelings is uitgevoerd op WCAG 2.1 Niveau AA
 De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
    
-  * [A11Y Checklist](#https://www.a11yproject.com/checklist/)
+  * https://www.a11yproject.com/checklist/
  *  WCAG Guidelines Overview
  * Google Lighthouse
 
