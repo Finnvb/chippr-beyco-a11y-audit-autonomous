@@ -3,7 +3,7 @@
 
 Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.
 
-In deze rapportage wordt het detail pagina getest aan de hand van de checklist van het a11y project.  
+In deze rapportage wordt het **detail pagina** getest aan de hand van de checklist van het a11y project.  
 
 Datum webtoegankelijkheid-test: 28-10-2021
 
@@ -68,20 +68,21 @@ Deze beoordelings is uitgevoerd op WCAG 2.1 Niveau AA
 De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
    
-  * [A11Y Checklist](https://www.a11yproject.com/checklist/)
+ * [A11Y Checklist](https://www.a11yproject.com/checklist/)
  *  [WCAG Guidelines Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
  * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 
 ## Testresultaten en aanbevelingen
 
- ### Checklist
+### Checklist
 
- #### Content
+#### Content
 
- #### Global code
+* Er komt geen inge
+#### Global code
 
- #### Keyboard
+#### Keyboard
 
 #### Images
 
