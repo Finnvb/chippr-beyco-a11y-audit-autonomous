@@ -56,7 +56,9 @@ Taal van website: Engels
 
 Finn van Bekkum
 Student
+
 finn.van.bekkum@hva.nl
+
 Nederlands
 
 ## Beoordelingsproces
