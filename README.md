@@ -41,7 +41,6 @@ https://test.beyco.chippr.dev/
 https://test.beyco.chippr.dev/trade/offers/8f3622d6-75a1-43b8-a960-3daecc5c880a
 
 
-{Als de website dynamisch is, screenshots van hetgeen beoordeeld is}
 ![afbeelding](https://user-images.githubusercontent.com/26089533/139428771-4d6678e4-d6ab-48e7-b6fc-06e987d8828f.png)
 
 Test data:
@@ -74,15 +73,13 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
  * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 
-
-
 ## Testresultaten en aanbevelingen
 
-# Checklist
+ Checklist
 
-# Content
+ Content
 
-# Global code
+ Global code
 
 # Keyboard
 
