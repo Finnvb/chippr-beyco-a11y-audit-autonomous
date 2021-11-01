@@ -75,7 +75,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ## Testresultaten en aanbevelingen
 
- ## Checklist
+ **Checklist**
 
  **Content**
 
