@@ -55,6 +55,7 @@ Taal van website: Engels
 ## Beoordelaars
 
 Finn van Bekkum
+
 Student
 
 finn.van.bekkum@hva.nl
