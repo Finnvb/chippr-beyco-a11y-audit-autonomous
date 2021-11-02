@@ -24,6 +24,9 @@ Webtoegankelijkheid-test uitgevoerd door: Finn van Bekkum
 
 ## Samenvatting
 
+Dit rapport beschrijft in hoeverre de website beyco.nl overeenstemt met de Web Content Accessibility Guidelines (WCAG) van het W3C.
+
+Conslusie van deze test luidt dat de Beyco website niet voldoet de WCAG 2.1, op niveau AA. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
 
 ## Achtergrond bij de evaluatie
@@ -75,6 +78,8 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ## Testresultaten en aanbevelingen
 
+De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1.
+
 ### Checklist
 
 #### Content 
@@ -86,7 +91,8 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ![afbeelding](https://user-images.githubusercontent.com/26089533/139850400-5f48eb59-ad06-4ce7-af1a-0be8239c470c.png)
 
-Hij geeft aan dat er geen lang attribute aanwezig is in de HTML start tag. Maar als ik zelf in de inspector kijk zie ik wel een lang attribute staan. Misschien dat lang="en-us" een ongeldige waarde is. Verder staat er geen heading in de body element. Deze staan wel in de main element.
+Hij geeft aan dat er geen lang attribute aanwezig is in de HTML start tag. Maar als ik zelf in de inspector kijk zie ik wel een lang attribute staan. Misschien dat lang="en-us" een ongeldige waarde is. Ook kom ik veel lege div elementen tegen in de code. 
+Verder staat er geen heading in de body element. Deze staan wel in de main element. 
 
 
 * Avoid using the autofocus attribute.
