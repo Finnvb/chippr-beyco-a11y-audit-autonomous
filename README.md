@@ -78,7 +78,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ## Testresultaten en aanbevelingen
 
-De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1.
+De detail pagina van Beyco voldoet niet aan nivea AA van de WCAG 2.1.
 
 ### Checklist
 
@@ -131,9 +131,8 @@ Maak gebruik van skip links voor screen readers en keyboard-only gebruikers.
 n.v.t.
 
 ##  Bijlagen
-
-### Lighthouse Desktop
 Dit is de huidige score van de detail pagina van Beyco voor desktop en mobile.
+### Lighthouse Desktop
 ![afbeelding](https://user-images.githubusercontent.com/26089533/139872821-31dd8b4b-8d59-4b95-b138-1154ad54bc5f.png)
 
 ### Lighthouse Mobile
