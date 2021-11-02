@@ -95,11 +95,25 @@ Mensen die blind of slechtziend zijn, kunnen gedesoriënteerd raken wanneer de f
 
 #### Keyboard
 
+* Make sure there is a visible focus style for interactive elements that are navigated to via keyboard input.
+
+In de footer komt bij de social media logo's geen focus style zoals bij de links.
+
+* Remove invisible focusable elements.
+
+Bij de iframe van de map wordt er een aantal keer getabt op elementen die niet zichtbaar zijn.
+
 #### Images
+✓ Voldoet
 
 #### Headings
+✓ Voldoet
 
 #### Lists
+
+* Use list elements (ol, ul, and dl elements) for list content.
+
+In de header wordt bij de nav geen ul gebruikt en in de footer ook niet.
 
 #### Controls
 
