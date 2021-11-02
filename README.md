@@ -79,8 +79,9 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Content
 
-* Er komt geen inge
 #### Global code
+
+* Use a lang attribute on the html element.
 
 #### Keyboard
 
