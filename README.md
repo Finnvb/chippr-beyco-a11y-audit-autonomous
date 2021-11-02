@@ -128,9 +128,16 @@ In de header wordt bij de nav geen ul gebruikt en in de footer ook niet.
 Maak gebruik van skip links voor screen readers en keyboard-only gebruikers.
 
 #### Tables
-n.v.t
+n.v.t.
 
 ##  Bijlagen
+
+# Lighthouse Desktop
+Dit is de huidige score van de detail pagina van Beyco.
+![afbeelding](https://user-images.githubusercontent.com/26089533/139872821-31dd8b4b-8d59-4b95-b138-1154ad54bc5f.png)
+
+
+
 
 ## Licentie
 
