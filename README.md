@@ -117,9 +117,12 @@ In de header wordt bij de nav geen ul gebruikt en in de footer ook niet.
 
 #### Controls
 
+*  Provide a skip link and make sure that it is visible when focused.
+
+Maak gebruik van skip links voor screen readers en keyboard-only gebruikers.
+
 #### Tables
-
-
+n.v.t
 
 ##  Bijlagen
 
