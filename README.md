@@ -80,6 +80,18 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 De detail pagina van Beyco voldoet niet aan nivea AA van de WCAG 2.1.
 
+#### Sterke punten
+* Beschrijving van buttons en links zijn duidelijk.
+* Images maken gebruik van de alt attribute.
+* Headings worden in een logische volgorde gebruikt en worden niet overgeslagen.
+* Met het tabben door de pagina kun je duidelijk zien welke link actief is. 
+
+#### Ontoegankelijke punten
+* In de code staan veel lege div elementen.
+* Vermijd het gebruik van het autofocus attribuut bij de iframe van de kaart.
+* Bij de iframe van de kaart wordt er een aantal keer getabt op elementen die niet zichtbaar zijn.
+* De social media logo's in de footer krijgen geen focus style bij het tabben.
+
 ### Checklist
 
 #### Content 
@@ -107,7 +119,7 @@ In de footer komt bij de social media logo's geen focus style zoals bij de links
 
 * Remove invisible focusable elements.
 
-Bij de iframe van de map wordt er een aantal keer getabt op elementen die niet zichtbaar zijn.
+Bij de iframe van de kaart wordt er een aantal keer getabt op elementen die niet zichtbaar zijn.
 
 #### Images
 ✓ Voldoet
