@@ -82,6 +82,11 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Global code
 
+* Validate your HTML
+
+![afbeelding](https://user-images.githubusercontent.com/26089533/139850400-5f48eb59-ad06-4ce7-af1a-0be8239c470c.png)
+
+
 * Avoid using the autofocus attribute.
 
 Mensen die blind of slechtziend zijn, kunnen gedesoriënteerd raken wanneer de focus zomaar wordt verplaatst. Ook kan het voor mensen met een motorische handicap voor problemen zorgen, omdat het voor hen extra werk kan opleveren om vanuit het autofocusgebied naar andere locaties op de pagina te navigeren.
