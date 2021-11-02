@@ -86,6 +86,8 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ![afbeelding](https://user-images.githubusercontent.com/26089533/139850400-5f48eb59-ad06-4ce7-af1a-0be8239c470c.png)
 
+Hij geeft aan dat er geen lang attribute aanwezig is in de HTML start tag. Maar als ik zelf in de inspector kijk zie ik wel een lang attribute staan. Misschien dat lang="en-us" een ongeldige waarde is. Verder staat er geen heading in de body element. Deze staan wel in de main element.
+
 
 * Avoid using the autofocus attribute.
 
