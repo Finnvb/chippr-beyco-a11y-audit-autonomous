@@ -44,7 +44,7 @@ https://test.beyco.chippr.dev/
 https://test.beyco.chippr.dev/trade/offers/8f3622d6-75a1-43b8-a960-3daecc5c880a
 
 
-![afbeelding](https://user-images.githubusercontent.com/26089533/139904547-2f80a238-018c-46b3-b68a-ab977f904530.png)
+![afbeelding](https://user-images.githubusercontent.com/26089533/139904987-b2cf6837-2fad-4688-8fb7-e461a86457a2.png)
 
 Test data:
 
