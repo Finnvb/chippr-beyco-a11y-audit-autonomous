@@ -132,12 +132,12 @@ n.v.t.
 
 ##  Bijlagen
 
-# Lighthouse Desktop
-Dit is de huidige score van de detail pagina van Beyco.
+### Lighthouse Desktop
+Dit is de huidige score van de detail pagina van Beyco voor desktop en mobile.
 ![afbeelding](https://user-images.githubusercontent.com/26089533/139872821-31dd8b4b-8d59-4b95-b138-1154ad54bc5f.png)
 
-
-
+### Lighthouse Mobile
+![afbeelding](https://user-images.githubusercontent.com/26089533/139873260-ad64d57d-83fd-4b5a-923a-0b0bfaa46639.png)
 
 ## Licentie
 
