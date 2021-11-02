@@ -77,7 +77,8 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ### Checklist
 
-#### Content
+#### Content 
+✓ Voldoet
 
 #### Global code
 
